@@ -1,8 +1,8 @@
 # BP HUD - Ultra Lightweight FiveM HUD
 
-![BP HUD Preview](https://i.ibb.co/yn5Cr9jH/bp-hud-preview1.jpg)
-![BP HUD Features](https://i.ibb.co/HMhzmFw/bp-hud-preview2.jpg)
-![BP HUD Performance](https://i.ibb.co/HTFvPWjj/bp-hud-preview3.jpg)
+![BP HUD Preview](https://i.ibb.co/VWDGs14f/image.png)
+![BP HUD Features](https://i.ibb.co/HMhzmFw/image.png)
+![BP HUD Performance](https://i.ibb.co/HTFvPWjj/image.png)
 
 ## Features
 - ⚡ **0.00ms in resmon** - Minimal performance impact
